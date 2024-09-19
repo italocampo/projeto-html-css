@@ -69,7 +69,7 @@ p {
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url("../img/banner.jpg");
+  background-image: url("../img/banner.jpeg");
   background-size: cover;
   filter: brightness(30%);
 }
